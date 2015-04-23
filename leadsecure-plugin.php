@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin Name: LeadSecure Widget
+  Plugin Name: LeadSecure Live Video Chat
   Plugin URI: http://leadsecure.com
   Description: LeadSecure Widget HTML and JavaScript. It can be addded in a page using the tag [leadsecure_widget] or just call do_action('leadsecure_widget');
   Version: 1.0
