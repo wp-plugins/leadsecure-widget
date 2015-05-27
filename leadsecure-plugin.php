@@ -2,18 +2,18 @@
 
 /*
   Plugin Name: LeadSecure Live Video Chat
-  Plugin URI: http://leadsecure.com
+  Plugin URI: http://leadsecure.io
   Description: LeadSecure Widget HTML and JavaScript. It can be addded in a page using the tag [leadsecure_widget] or just call do_action('leadsecure_widget');
   Version: 1.0
   Author: Nikolay Hadjidimitrov
-  Author URI: http://leadsecure.com
+  Author URI: http://leadsecure.io
  */
 
 function html_leadsecure_code() {
     $leadsecure_tennant_id = (get_option('leadsecure_tennant_id') != '') ? get_option('leadsecure_tennant_id') : '';
     $leadsecure_css = (get_option('leadsecure_css') != '') ? get_option('leadsecure_css') : '';
     $message = (get_option('leadsecure_front_message') != '') ? get_option('leadsecure_front_message') : '';
-    $leadsecure_server_url = (get_option('leadsecure_server_url') != '') ? get_option('leadsecure_server_url') : 'http://prod.leadsecure.com/static/';
+    $leadsecure_server_url = (get_option('leadsecure_server_url') != '') ? get_option('leadsecure_server_url') : 'http://prod.leadsecure.io/static/';
     echo '<div id="instacollab-widget-container"></div>
             <script id="instacollab-embed-script" data-instacollab_css="'.$leadsecure_css.'" data-plugin="wordpress" data-instacollab_message="'.$message.'" data-source-path="' . $leadsecure_server_url . '" data-tenant-id="' . $leadsecure_tennant_id . '" src="' . $leadsecure_server_url . 'widgets/widget.js" async></script>';
 }
@@ -39,7 +39,7 @@ function leadsecure_display_settings() {
 
 
     $leadsecure_tennant_id = (get_option('leadsecure_tennant_id') != '') ? get_option('leadsecure_tennant_id') : '';
-    $leadsecure_server_url = (get_option('leadsecure_server_url') != '') ? get_option('leadsecure_server_url') : 'http://prod.leadsecure.com/static/';
+    $leadsecure_server_url = (get_option('leadsecure_server_url') != '') ? get_option('leadsecure_server_url') : 'http://prod.leadsecure.io/static/';
     $leadsecure_css = (get_option('leadsecure_css') != '') ? get_option('leadsecure_css') : '';
     $message = (get_option('leadsecure_front_message') != '') ? get_option('leadsecure_front_message') : '';
     $html = '<div class="wrap">

@@ -1,6 +1,6 @@
 === LeadSecure Live Video Chat ===
 Contributors: nicky75
-Author URI: http://www.leadsecure.com/
+Author URI: http://www.leadsecure.io/
 Tags: webrtc, video conference, audio, chat, call
 Requires at least: 2.9+
 Tested up to: 4.2
@@ -38,11 +38,11 @@ The following options are customizable:
 
 * message on the LeadSecure button
 * CSS for the look and feel of the button
-* User ID - you can take it for free by registering on http://leadsecure.com/sign-up-for-free/
+* User ID - you can take it for free by registering on http://leadsecure.io/sign-up-for-free/
 
 = Reference =
 
-For more information: [www.leadsecure.com](http://www.leadsecure.com/ "www.leadsecure.com")
+For more information: [www.leadsecure.io](http://www.leadsecure.io/ "www.leadsecure.io")
 
 == Frequently Asked Questions ==
 
@@ -64,11 +64,11 @@ LeadSecure is a hosted, cloud based live video communication service. It does no
 
 = I want to provide feedback! =
 
-We love feedback! Feel free to drop us a line at contact@leadsecure.com for the things you do like or you don't, additional features you would like to see or just to say hi. We will make our best to take them into consideration! Thanks
+We love feedback! Feel free to drop us a line at contact@leadsecure.io for the things you do like or you don't, additional features you would like to see or just to say hi. We will make our best to take them into consideration! Thanks
 
 = My question is not answered here! =
 
-If you have any questions, please send us an email - contact@leadsecure.com
+If you have any questions, please send us an email - contact@leadsecure.io
 
 
 == Installation ==
@@ -83,15 +83,15 @@ Just follow the steps listed below. If at any point you have troubles with the i
 
 3/ Enter the following information in the form:
 
-a/ Server URL : http://prod.leadsecure.com/static/
+a/ Server URL : http://prod.leadsecure.io/static/
 
 b/ User ID: If you are an existing user of LeadSecure, please log into your LeadSecure account, go to the integration page Option 3. Look-up in the right-hand edit box tenant-id copy and paste it here. For example data-tenant-id=G1DgI5cbNhYzYUee - copy/paste G1DgI5cbNhYzYUee  
 
-If you don't have UserID, please register for free at http://leadsecure.com/sign-up-for-free/ to get one.
+If you don't have UserID, please register for free at http://leadsecure.io/sign-up-for-free/ to get one.
 
 c/ Front Message: This is what will be displayed on your button. We recommend it to be shorter e.g. Video call me or Video Call George. You can change the front message as you like.
 
-d/ Custom CSS: Leaving blank this field will use the default values. If you want to setup a custom look and feel of the button, please contact us at contact@leadsecure.com
+d/ Custom CSS: Leaving blank this field will use the default values. If you want to setup a custom look and feel of the button, please contact us at contact@leadsecure.io
 
 4/ LeadSecure button can be positioned on any page you would like:
 
@@ -103,7 +103,7 @@ b/ For multiple pages e.g.menu, the header, the footer, etc. - Go to Appearance 
 
 Thanks for using LeadSecure :) 
 
-P.S. If you have any troubles with installation feel free do drop us a line at contact@leadsecure.com 
+P.S. If you have any troubles with installation feel free do drop us a line at contact@leadsecure.io 
 
 
 == Changelog ==
