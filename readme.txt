@@ -113,3 +113,6 @@ P.S. If you have any troubles with installation feel free do drop us a line at c
 
 = 1.0 =
 * Initial release
+
+= 1.1 =
+* Added SSL support
