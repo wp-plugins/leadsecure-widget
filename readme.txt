@@ -4,7 +4,7 @@ Author URI: http://www.leadsecure.com/
 Tags: webrtc, video conference, audio, chat, call
 Requires at least: 2.9+
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 LeadSecure Live Video chat plugin for WordPress that allows visitors to establish live video chat in the browser without download. 
 
